@@ -8,7 +8,7 @@ hit me when I realized that technology not only enhances life quality, but also 
 simplifies information exchange, breaks down communication barriers, and promotes social inclusion. 
 That is so to say, is the main reason why I wanted to embrace these premises and tools.
 
-My aspirations, however, go beyond simply seeking a new professional career, 
+My aspirations, however, goes beyond simply seeking a new professional career, 
 as I perceive Information Technology as an excellent path 
 to input significant impact: 
 promote well-being, problem resolution, and raise awareness.
