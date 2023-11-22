@@ -9,7 +9,7 @@ My aspirations, however, extend beyond a mere career transition, as I perceive I
 Driven by a passion for lifelong learning, I am constantly motivated to explore new horizons and deepen my knowledge. Thus, improve  IT skills has become my main focus, and I am committed to dedicating myself to this goal.
 
 
-- :laptop: Studing System Development in College and Data Science in Parallel
-- 👯 I’m looking to collaborate on any Python project
-- 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vitor-campos-0b096122a)
+- 💻📚 Studing System Development in College and Data Science in Parallel
+- 👯 -  I’m looking to collaborate on any Python project
+- 💬 -  Ask me about anything
+- 📫 -  How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vitor-campos-0b096122a)
