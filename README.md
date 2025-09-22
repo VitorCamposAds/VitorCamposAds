@@ -19,6 +19,6 @@ I am always looking for new opportunities to contribute to teams that want to ma
 - **Version Control**: Git, GitHub
 
 ## Connect With Me 📬
-If you're interested in my background and are looking to collaborate on data projects, let's connect!
+Interested in my background or looking for a collaborator? Feel free to reach out to discuss a potential project!
 
 [**LinkedIn Profile**](https://www.linkedin.com/in/vitor-campos-tech)
