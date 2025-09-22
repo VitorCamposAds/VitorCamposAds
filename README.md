@@ -18,7 +18,6 @@ I am always looking for new opportunities to contribute to teams that want to ma
 - **Analytical Tools**: Excel, Power BI, Python, SQL
 - **Version Control**: Git, GitHub
 
-## Connect With Me 📬
-Interested in my background or looking for a collaborator? Feel free to reach out to discuss a potential project!
-
-[**LinkedIn Profile**](https://www.linkedin.com/in/vitor-campos-tech)
+## Let's Collaborate! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vitor-campos-tech)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)
