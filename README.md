@@ -19,10 +19,8 @@ I am always looking for new opportunities to contribute to teams that want to ma
 - **Version Control**: Git, GitHub
 
 ## Let's Collaborate! 🚀
-
-If you're interested in my background or looking to collaborate on data projects, feel free to reach out:
+If you're interested in my background or looking to collaborate on data projects, feel free to reach out. Whether you need insights from complex data or a dynamic report to guide your decisions, I'm excited to work with you:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vitor-campos-tech)
 
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)
-
