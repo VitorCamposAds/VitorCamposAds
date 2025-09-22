@@ -22,7 +22,7 @@ I am always looking for new opportunities to contribute to teams that want to ma
 
 If you're interested in my background or looking to collaborate on data projects, feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/)](https://linkedin.com/in/vitor-campos-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vitor-campos-tech)
 
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)
 
