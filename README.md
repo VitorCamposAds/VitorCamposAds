@@ -1,6 +1,6 @@
 # Hi, I'm Vitor 👋
 
-<img align="right" width="400" src="https://github.com/VitorCamposAds/Imagem/raw/main/imagem%20github.jpg">
+<img align="right" width="400" height="600" src="https://github.com/VitorCamposAds/Imagem/raw/main/imagem%20github.jpg">
 
 🎯 **Data Analyst** with a multidisciplinary background:  
 - M.A. in International Relations  
