@@ -1,5 +1,7 @@
 # Hi, I'm Vitor 👋
 
+<img align="right" width="500" height="auto" src="https://github.com/VitorCamposAds/Imagem/raw/main/imagem%20github.jpg">
+
 🎯 **Data Analyst** with a multidisciplinary background:  
 - M.A. in International Relations  
 - MBA in Data Science & Analytics  
@@ -25,4 +27,4 @@ Turning data into **strategic insights** and supporting data-driven decision-mak
 If you're interested in my background or would like to collaborate on data projects, feel free to connect:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vitor-campos-tech)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)
