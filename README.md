@@ -1,6 +1,6 @@
-<p float="right">
-  <img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" width="200" />
-</p>
+<img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" 
+     width="200" 
+     style="float: right; margin-left: 20px; margin-bottom: 10px;" />
 
 # Hi, I'm Vitor 👋
 
