@@ -26,7 +26,7 @@ Turning data into **strategic insights** and supporting data-driven decision-mak
 </td>
 <td>
 
-<img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" width="500"/>
+<img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" width="500" height="500"/>
 
 </td>
 </tr>
