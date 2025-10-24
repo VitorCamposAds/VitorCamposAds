@@ -10,7 +10,8 @@
 - B.Sc. in Systems Analysis and Development  
 
 💻 **Tech Stack**  
-- SQL • Python (pandas, numpy, matplotlib, seaborn)  
+- SQL
+- Python (pandas, numpy, matplotlib, seaborn)  
 - Power BI
 - Advanced Excel  
 - Git/GitHub  
