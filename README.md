@@ -11,7 +11,8 @@
 
 💻 **Tech Stack**  
 - SQL • Python (pandas, numpy, matplotlib, seaborn)  
-- Power BI • Advanced Excel  
+- Power BI
+- Advanced Excel  
 - Git/GitHub  
 
 📊 **What you'll find here**  
