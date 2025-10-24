@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" 
-     width="200" 
-     style="float: right; margin-left: 20px; margin-bottom: 10px;" />
+<table>
+<tr>
+<td>
 
 # Hi, I'm Vitor 👋
 
@@ -23,10 +23,17 @@
 🚀 **My Goal**  
 Turning data into **strategic insights** and supporting data-driven decision-making.  
 
+</td>
+<td>
+
+<img src="https://github.com/user-attachments/assets/3e265940-536c-455f-8b37-082c39723559" width="200"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🤝 Let's Collaborate!  
-If you're interested in my background or would like to collaborate on data projects, feel free to connect:  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vitor-campos-tech)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:vitorcamposmouracosta@gmail.com)
